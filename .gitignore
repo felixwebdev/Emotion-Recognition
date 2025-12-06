@@ -1,0 +1,6 @@
+venv
+FER2013
+__pycache__/
+*.pyc
+others
+*.csv
